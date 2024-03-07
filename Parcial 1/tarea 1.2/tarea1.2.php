@@ -61,27 +61,27 @@ Un real que sea el valor de z impreso con tres puntos decimales.
 </table>
 <?php
 echo "NUMERO DE ENTRADA: <BR>
-33.562 <br>
+a=33.562 <br>
 MULTIPLICACION: <br>
-x= 3*33.562 + 15; <BR>
+x= 3*a + 15; <BR>
 y= x + 3 / x - 1; <br>
 z= 5*x + 7*y / a*x*y; <BR>
 RESULTADO: 0.148";
 echo "<br>";
 echo "<br>";
 echo "NUMERO DE ENTRADA: <BR>
-72.569 <br>
+a=72.569 <br>
 MULTIPLICACION: <br>
-x= 3*72.569 + 15; <BR>
+x= 3*a + 15; <BR>
 y= x + 3 / x - 1; <br>
 z= 5*x + 7*y / a*x*y; <BR>
 RESULTADO: 0.069";
 echo "<br>";
 echo "<br>";
 echo "NUMERO DE ENTRADA: <BR>
-64.835 <br>
+a=64.835 <br>
 MULTIPLICACION: <br>
-x= 3*64.835 + 15; <BR>
+x= 3*a + 15; <BR>
 y= x + 3 / x - 1; <br>
 z= 5*x + 7*y / a*x*y; <BR>
 RESULTADO: 0.077";
